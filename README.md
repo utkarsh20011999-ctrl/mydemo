@@ -1,4 +1,4 @@
 # mydemo
 this is my first repository
 <br>
-Author - Utkarsh Singh
+Author - Utkarsh kumar singh
